@@ -1,0 +1,525 @@
+@keyframes bganimation {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+body{
+    padding: 8;
+    background: #000000;
+}
+
+.w{
+    font-size: x-large;
+    color: aliceblue;
+    margin: 5px;
+    padding: 3px;
+}
+
+.q{
+    background-image: linear-gradient(155deg,rgb(101, 99, 99), rgb(86, 56, 86), blue,navy);
+    margin: -10px;
+    margin-top: -25px;
+    background-size: 450%;
+    animation: bganimation 15s infinite;
+}
+
+
+
+.ww{
+    text-align: center;
+    color: yellow;
+    text-decoration: dashed;
+    font-size: 60px;
+}
+
+.e{
+    width: 500px;
+    height: 400px;
+    margin-top: 24px;
+    margin-left: 54px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    opacity: 0.5;
+    transform: rotate(180deg);
+}
+
+.e:hover{
+    opacity: 1;
+    margin: 60px;
+    width: 600px;
+    height: 500px;
+    border: 7px solid greenyellow ;
+    transition: all 3s ;
+    transform:rotate(360deg) ;
+}
+
+.ee{
+    font-size: xx-small;
+    color: aliceblue;
+    border: 10px solid red;
+    margin: 2px;
+    padding: auto;
+    width: 400px;
+}
+
+.ee:hover{
+    font-size:large;
+    transition: all 3s;
+    color: black;
+    border: 5px dashed goldenrod;
+    padding: 5px;
+    width:1000px;
+}
+
+.H {
+    font-size: 45px ;
+    color: aquamarine;
+}
+.HH{
+    font-size: 30PX ;
+    color: aliceblue;
+}
+
+
+header{
+    text-align: center;
+    background-image: radial-gradient(navy, crimson);
+    margin-bottom: -30px;
+    margin: -10px;
+    height: 330px;
+}
+
+.HHH{
+    font-size: medium;
+    font-family: sans-serif;
+    color: white;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.wtrtr{
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    padding-right: 423px;
+    padding-left: 3px;
+
+}
+
+.qtr{
+    margin: -10px;
+    margin-top: -25px;
+    background-image: linear-gradient(155deg, black, navy , black, navy,black,navy,black,navy,black,navy);
+    background-size: 450%;
+    animation: bganimation 15s infinite;
+}
+
+.koleseyImg{
+    position: absolute;
+    left: 1197px;
+    top: 1420px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImg:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.koleseyImgz{
+    position:absolute;
+    top: 1900px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImgz:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.wtr{
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+
+.wtry{
+    color: aliceblue;
+    font-size: 30px;
+}
+
+.qtrq{
+    padding-left: 7px;
+    padding-bottom: 7px;
+}
+
+.koleseyImgx{
+    position:absolute;
+    top: 2300px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImgx:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.koleseyImgc{
+    position:absolute;
+    top: 2700px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImgc:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.koleseyImgv{
+    position:absolute;
+    top: 3100px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImgv:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.koleseyImgb{
+    position:absolute;
+    top: 3500px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImgb:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.koleseyImgn{
+    position:absolute;
+    top: 3900px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImgn:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.koleseyImgm{
+    position:absolute;
+    top: 4300px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImgm:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.koleseyImga{
+    position:absolute;
+    top: 4700px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImga:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.koleseyImgs{
+    position:absolute;
+    top: 5100px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImgs:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.koleseyImgd{
+    position:absolute;
+    top: 5500px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.koleseyImgd:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.bashnya{
+    position:absolute;
+    top: 6000px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.bashnya:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;  
+}
+
+.bashnyaZ{
+    position:absolute;
+    top: 6400px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.bashnyaZ:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;  
+}
+
+.bashnyaX{
+    position:absolute;
+    top: 6800px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.bashnyaX:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;  
+}
+
+.bashnyaC{
+    position:absolute;
+    top: 7200px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.bashnyaC:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;  
+}
+
+.bashnyaV{
+    position:absolute;
+    top: 7600px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.bashnyaV:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;  
+}
+
+.bashnyaB{
+    position:absolute;
+    top: 8000px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.bashnyaB:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;  
+}
+
+.bashnyaN{
+    position:absolute;
+    top: 8400px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.bashnyaN:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;  
+}
+
+.bashnyaM{
+    position:absolute;
+    top: 8800px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red;
+}
+
+.bashnyaM:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;  
+}
+
+.DVORYEZ{
+    position:absolute;
+    top: 9200px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red 
+}
+
+.DVORYEZ:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.DVORYEZZ{
+    position:absolute;
+    top: 9100px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red 
+}
+
+.DVORYEZZ:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.DVORYEZX{
+    position:absolute;
+    top: 9500px;
+    left: 1197px;
+    width: 1px;
+    height: 1px;
+    border: 10px solid red 
+}
+
+.DVORYEZX:hover{
+    width: 400px;
+    height: 350px;
+    transition: all 2s;
+}
+
+.KLKL{
+    width: 600PX;
+    margin-left: 7px;
+    border: 7px solid firebrick;
+    transform: translateY(40px);
+}
+
+.KLKL:hover{
+  transform:translateX(500px) translateY(-40px );
+  transition: all 3.3s;
+}
+
+.LKLK {
+    font-size: large;
+    font-family: sans-serif;
+    margin: 30px;
+    color: wheat;
+    margin-bottom: 215px;
+    margin-top: 60px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.cclass{
+    text-align: center;
+    color: rgb(0, 100, 100);
+}
+
+.class{
+    background-image: linear-gradient(goldenrod, gold);
+    margin-top: -215;
+    margin-left:-10px ;
+    margin-right: -10px;
+}
+
+.ccllaass{
+    color: rgb(7, 38, 65);
+    text-align: justify;
+    padding: 13px;
+    font-size: large;
+}
+
+footer{
+    background-image: linear-gradient(black , rgb(57, 57, 57));
+    margin: -20px;
+    height: 40px;
+}
+
+.ppppp{
+    color: antiquewhite;
+    text-align: end;
+    font-size: x-large;
+    margin-right: 10px;
+}
